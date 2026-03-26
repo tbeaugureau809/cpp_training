@@ -2,6 +2,9 @@
 using namespace std;
 
 int main() {
-    cout << "Hello from VS Code build task!" << endl;
+    int test_scores [5] {100,95,99,87,88};
+
+    cout<<"First score at index 0:-"<<test_scores[0]<<endl;
+
     return 0;
 }
