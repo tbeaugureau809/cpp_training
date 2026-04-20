@@ -3,7 +3,17 @@
 using namespace std;
 
 int main() {
-    for (int i{1}; i <=10; ++i)
+    // for (int i{1}, j{5}; i <=10; ++i,j+=2) {
+    //     cout<<"i stuff: ";
+    //     cout<<i<<endl;
+    //     cout<<" j stuff: ";
+    //     cout<<j<<endl;
 
-    //ended at 7:30 in video
-}
+    for (int i {10}; i > 0; i--) {
+        cout<<i<<endl;
+        cout<<"Blastoff"<<endl;
+    }
+    }
+   
+
+    
